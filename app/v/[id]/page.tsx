@@ -87,7 +87,7 @@ export default async function Video({ params }: PageProps) {
         '@type': 'WebPage',
         name: `${file.title}`,
         image: file.splash_img,
-        description: `${file.title} di ${SITENAME} Video Bokep Indo Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma`,
+        description: `${file.title} di ${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma`,
         url: `https://ngentotmama.pages.dev/v/${file.filecode}`,
         datePublished: new Date(
             file.uploaded + ".000Z"
@@ -107,7 +107,7 @@ export default async function Video({ params }: PageProps) {
         '@type': 'Article',
         headline: `${file.title}`,
         image: file.splash_img,
-        description: `${file.title} di ${SITENAME} Video Bokep Indo Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma`,
+        description: `${file.title} di ${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma`,
         url: `https://ngentotmama.pages.dev/v/${file.filecode}`,
         datePublished: new Date(
             file.uploaded + ".000Z"
@@ -127,7 +127,7 @@ export default async function Video({ params }: PageProps) {
         <div className="grid col-span-full gap-4 md:gap-4 md:mx-10" itemProp="video" itemScope itemType="http://schema.org/VideoObject">
 <meta itemProp="author" content="admin" />
 <meta itemProp="name" content={`${file.title}`} />
-<meta itemProp="description" content={`${file.title} di ${SITENAME} Video Bokep Indo Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma`} />
+<meta itemProp="description" content={`${file.title} di ${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma`} />
 <meta itemProp="duration" content={`${file.length}`} />
 <meta itemProp="thumbnailUrl" content={`${file.splash_img}`} />
 <meta itemProp="embedURL" content={`https://doodstream.com/e/${file.filecode}`} />
